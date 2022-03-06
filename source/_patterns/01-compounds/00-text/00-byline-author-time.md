@@ -4,7 +4,7 @@ content_key: content
 [Template](../../patterns/03-templates-00-page/03-templates-00-page.html) merge-conflict test
 
 Giving \"credit"
-here ride is dune
+there ride is dune
 ~*~
 ---
 el: .byline
